@@ -5,6 +5,7 @@ FInd more information in the main PySplanner repository!
 <hr>
 
 ### Created by:
-**DylDev** | FLL Veteran of Cloverbots #48816\
+**DylDev** | Cloverbots #48816 Veteran - FTC #18597 RoboClovers (Hopefully soon)\
 **techcatgato** | Member of Seagulls #2750\
-**Skrauzy** (PumpkinDoesCoding) | Member of RGB
+**Skrauzy** (PumpkinDoesCoding) | Member of RGB\
+**Sketchy** (3xSketchy) | Member of Seagulls #2750
