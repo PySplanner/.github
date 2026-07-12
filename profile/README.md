@@ -7,7 +7,7 @@ FInd more information in the main PySplanner repository!
 ### Developers
 **DylanB** | FLL Alumni (48816 CloverBots) - FTC (#18597 RoboClovers)\
 **techcatgato** | FLL Alumni (Seagulls #2750) - FTC (#11635 Quack Attack)\
-**Skrauzy** (PumpkinDoesCoding) | FLL Alumni (RGB)\
+**Antonis Gavras** | FLL Alumni (RGB)\
 
 ### Reach us
 You can reach us by
