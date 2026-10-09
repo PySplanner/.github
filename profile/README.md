@@ -1,19 +1,14 @@
-# Welcome to PySplanner!
-PySplanner is a software which uses pre-planned paths to navigate a Spike PRIME/INVENTOR or MINDSTORMS EV3 robot on an FLL (FIRST Lego League) competition field.
-FInd more information in the main PySplanner repository!
+# Welcome to the home of PySplanner!
+PySplanner is an addition to the PyBricks firmware which uses pre-planned paths to navigate a Spike PRIME/INVENTOR or MINDSTORMS EV3 robot on an FLL (FIRST Lego League) competition field. Check out the docs at https://pysplanner.com/ for more details!
 
 <hr>
 
 ### Developers
-**DylanB** | FLL Alumni (48816 CloverBots) - FTC (#18597 RoboClovers)\
-**techcatgato** | FLL Alumni (Seagulls #2750) - FTC (#11635 Quack Attack)\
-**Antonis Gavras** | FLL Alumni (RGB)\
+**DylanBPY (Dylan)** - Site and Visualizer Lead, FLL/FTC alumni and V5RC competitor\
+**techcatgato (Yoav)** - Firmware Lead, FLL/FTC alumni and FRC competitor\
+**PumpkinDoesCoding (Antonis Gavras)** - Algorithm Lead, FLL alumni
 
-### Reach us
+### Contacts
 You can reach us by
-- Joining the [Discord](https://discord.gg/peMVWcuzdJ)
+- Joining the [PySplanner Discord](https://discord.gg/peMVWcuzdJ)
 - Making a Github issue
-
-### License and Copyright
-<p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://github.com/PySplanner">PySplanner</a> by is licensed under <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/nc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/sa.svg?ref=chooser-v1" alt=""></a></p>
-This license applies to all repositories in this organization unless otherwise stated
